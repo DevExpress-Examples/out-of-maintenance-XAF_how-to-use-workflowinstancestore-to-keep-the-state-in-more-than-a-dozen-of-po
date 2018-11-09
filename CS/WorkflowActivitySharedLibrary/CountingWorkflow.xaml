@@ -1,4 +1,4 @@
-﻿<Activity mc:Ignorable="sap sads" x:Class="WorkflowActivitySharedLibrary.CountingWorkflow" sap:VirtualizedContainerService.HintSize="528,928" mva:VisualBasic.Settings="Assembly references and imported namespaces serialized as XML namespaces"
+<Activity mc:Ignorable="sap sads" x:Class="WorkflowActivitySharedLibrary.CountingWorkflow" sap:VirtualizedContainerService.HintSize="528,928" mva:VisualBasic.Settings="Assembly references and imported namespaces serialized as XML namespaces"
  xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities"
  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
  xmlns:mv="clr-namespace:Microsoft.VisualBasic;assembly=System"
