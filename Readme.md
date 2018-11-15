@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Program.cs](./CS/DevExpressWorkflowInstanceStoreInCode/Program.cs) (VB: [Program.vb](./VB/DevExpressWorkflowInstanceStoreInCode/Program.vb))
+* [Program.cs](./CS/DevExpressWorkflowInstanceStoreInConfig/Program.cs) (VB: [Program.vb](./VB/DevExpressWorkflowInstanceStoreInConfig/Program.vb))
+* [CountingWorkflow.xaml](./CS/WorkflowActivitySharedLibrary/CountingWorkflow.xaml) (VB: [CountingWorkflow.xaml](./VB/WorkflowActivitySharedLibrary/CountingWorkflow.xaml))
+* [ICountingWorkflow.cs](./CS/WorkflowActivitySharedLibrary/ICountingWorkflow.cs) (VB: [ICountingWorkflow.vb](./VB/WorkflowActivitySharedLibrary/ICountingWorkflow.vb))
+<!-- default file list end -->
 # How to use WorkflowInstanceStore to keep the state in more than a dozen of popular RDBMS
 
 
